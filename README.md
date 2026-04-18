@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am Computer Science Engineering Student<br> 
+I build backend systems and full-stack applications that handle real-world use cases like collaboration, access control, and scalable services.<br> 
+As a 3rd year BTech student targeting SDE roles, I focus on building practical projects rather than just learning theory. I’ve developed a team collaboration platform where users can create workspaces, invite members, manage tasks, and collaborate on documents with role-based access control.
+The system includes authentication, API-driven backend, notification services, and AI-powered document summarization with Redis caching for performance optimization.
+Currently, I’m working on a microservices-based e-commerce platform with separate services for core operations, seller dashboard, and AI-based features—aimed at understanding scalable system design.<br> 
 
 
 ## 🌐 Socials:
