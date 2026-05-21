@@ -1,8 +1,17 @@
-# 💫 About Me:
-I build backend systems and full-stack applications that handle real-world use cases like collaboration, access control, and scalable services.<br> 
-As a 3rd year BTech student targeting SDE roles, I focus on building practical projects rather than just learning theory. I’ve developed a team collaboration platform where users can create workspaces, invite members, manage tasks, and collaborate on documents with role-based access control.
-The system includes authentication, API-driven backend, notification services, and AI-powered document summarization with Redis caching for performance optimization.
-Currently, I’m working on a microservices-based e-commerce platform with separate services for core operations, seller dashboard, and AI-based features—aimed at understanding scalable system design.<br> 
+<h1 align="center">Hi, I'm Keshav Gupta</h1>
+<h3 align="center">Computer Science Student | Backend & Full Stack Development</h3>
+
+- 🔭 I’m currently working on [Movie Review Application](https://github.com/keshav001-creator/Movie-review-Application)
+
+- 🌱 I’m currently learning **Java, Spring Boot, Distributed Systems, System Design**
+
+- 💬 Ask me about **MERN Stack, REST APIs, Authentication, Backend Architecture**
+
+- 📫 How to reach me **gupta.keshav0406@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/19ZLIz_G04kL97b6QrVz6eHlcII2JEE-o/view?usp=drive_link](https://drive.google.com/file/d/19ZLIz_G04kL97b6QrVz6eHlcII2JEE-o/view?usp=drive_link)
+
+- ⚡ Fun fact **Most of my learning comes from building projects**
 
 
 ## 🌐 Socials:
