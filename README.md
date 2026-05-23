@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Movie Review Application](https://github.com/keshav001-creator/Movie-review-Application)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Distributed Systems, System Design**
+- 🌱 I’m currently learning **Java, Spring Boot and and building high-performance backend systems**
 
 - 💬 Ask me about **MERN Stack, REST APIs, Authentication, Backend Architecture**
 
