@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **gupta.keshav0406@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19ZLIz_G04kL97b6QrVz6eHlcII2JEE-o/view?usp=drive_link](https://drive.google.com/file/d/19ZLIz_G04kL97b6QrVz6eHlcII2JEE-o/view?usp=drive_link)
-
 - ⚡ Fun fact **Most of my learning comes from building projects**
 
 
