@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student | Backend & Full Stack Development</h3>
 
 - 🔭 I’m currently working on DSA Behavioral Intelligence System (https://github.com/keshav001-creator/Adaptive-Coding-Analytics-Platform)
-- 💬 Ask me about **MERN Stack, REST APIs, Authentication, Backend Architecture**
+- 💬 Ask me about **REST APIs, Backend Architecture**
 
 - 📫 How to reach me **gupta.keshav0406@gmail.com**
 
