@@ -7,8 +7,7 @@
 - Ask me about full-stack development with React and Node.js, integrating LLM APIs (Gemini) into applications, building data pipelines with Python and Pandas
 - 📫 How to reach me **gupta.keshav0406@gmail.com**
 
-- 📄 Know about my experiences [Resume
-- ](https://drive.google.com/drive/folders/1-LMX6xHS_f1brF-EmyG_c9zyvoSRPdxB?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1-LMX6xHS_f1brF-EmyG_c9zyvoSRPdxB?usp=sharing)
 
 - ⚡ Fun fact **Most of my learning comes from building projects**
 
