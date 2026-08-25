@@ -3,11 +3,11 @@
 
 - I’m currently working on [AI Message Notification Router](https://github.com/keshav001-creator/Hackerrank-orchestrate-aug2026)
 - Interested in full-stack development, applied AI/LLM integration, and backend engineering.
-- I’m currently learning production-level backend concepts: caching, rate limiting, message queues, and scalable system design.
+- I’m currently learning some backend concepts: caching, rate limiting, message queues, and scalable system design.
 - Ask me about full-stack development with React and Node.js, integrating LLM APIs (Gemini) into applications, building data pipelines with Python and Pandas
 - 📫 How to reach me **gupta.keshav0406@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/drive/folders/1-LMX6xHS_f1brF-EmyG_c9zyvoSRPdxB?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ugfMMtfCM_B_8M4neA3m_IeJPQY9hvFv/view?usp=drive_link)
 
 - ⚡ Fun fact **Most of my learning comes from building projects**
 
