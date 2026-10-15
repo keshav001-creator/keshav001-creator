@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keshav Gupta</h1>
 <h3 align="center">Computer Science Student | Backend & Full Stack Development</h3>
 
-- I’m currently working on [AI Message Notification Router](https://github.com/keshav001-creator/Hackerrank-orchestrate-aug2026)
+- I’m currently working on [Career Consultation Platform](https://career-consulting-platform-1.onrender.com)
 - Interested in full-stack development, applied AI/LLM integration, and backend engineering.
 - I’m currently learning some backend concepts: caching, rate limiting, message queues, and scalable system design.
 - Ask me about full-stack development with React and Node.js, integrating LLM APIs (Gemini) into applications, building data pipelines with Python and Pandas
